@@ -1,3 +1,4 @@
+## NOTA: Este codigo ya no funciona debida a la incorporacion de un catpcha en la pagina del curl, no puedo de momento dar mantenimiento al codigo. 
 # CurpUtils
 Clase en python para obtener información relevante sobre datos del CURP (México), tal como: nombre, apellido, fecha de nacimiento y lugar de nacimiento.
 
